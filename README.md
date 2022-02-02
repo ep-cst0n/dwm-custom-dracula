@@ -1,5 +1,5 @@
 # dwm-custom-dracula
-Slightly patched dwm with dracula color scheme
+Patched dwm With Dracula Color Scheme 
 
 <img src="https://github.com/ep-cst0n/dwm-custom-dracula/blob/main/2022-01-14_09-42.png?raw=true" />
 
